@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SylKiviloo/Movie-finder-2/static/css/main.f694b730.css",
+    "main.js": "/SylKiviloo/Movie-finder-2/static/js/main.9a83437f.js",
+    "static/js/453.9a7e0707.chunk.js": "/SylKiviloo/Movie-finder-2/static/js/453.9a7e0707.chunk.js",
+    "index.html": "/SylKiviloo/Movie-finder-2/index.html",
+    "main.f694b730.css.map": "/SylKiviloo/Movie-finder-2/static/css/main.f694b730.css.map",
+    "main.9a83437f.js.map": "/SylKiviloo/Movie-finder-2/static/js/main.9a83437f.js.map",
+    "453.9a7e0707.chunk.js.map": "/SylKiviloo/Movie-finder-2/static/js/453.9a7e0707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f694b730.css",
+    "static/js/main.9a83437f.js"
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SylKiviloo/Movie-finder-2/static/css/main.f694b730.css",
-    "main.js": "/SylKiviloo/Movie-finder-2/static/js/main.edeb7228.js",
-    "static/js/453.9a7e0707.chunk.js": "/SylKiviloo/Movie-finder-2/static/js/453.9a7e0707.chunk.js",
-    "index.html": "/SylKiviloo/Movie-finder-2/index.html",
-    "main.f694b730.css.map": "/SylKiviloo/Movie-finder-2/static/css/main.f694b730.css.map",
-    "main.edeb7228.js.map": "/SylKiviloo/Movie-finder-2/static/js/main.edeb7228.js.map",
-    "453.9a7e0707.chunk.js.map": "/SylKiviloo/Movie-finder-2/static/js/453.9a7e0707.chunk.js.map"
+    "main.css": "/Movie-finder-2/static/css/main.f694b730.css",
+    "main.js": "/Movie-finder-2/static/js/main.5b806525.js",
+    "static/js/453.9a7e0707.chunk.js": "/Movie-finder-2/static/js/453.9a7e0707.chunk.js",
+    "index.html": "/Movie-finder-2/index.html",
+    "main.f694b730.css.map": "/Movie-finder-2/static/css/main.f694b730.css.map",
+    "main.5b806525.js.map": "/Movie-finder-2/static/js/main.5b806525.js.map",
+    "453.9a7e0707.chunk.js.map": "/Movie-finder-2/static/js/453.9a7e0707.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f694b730.css",
-    "static/js/main.edeb7228.js"
+    "static/js/main.5b806525.js"
   ]
 }
